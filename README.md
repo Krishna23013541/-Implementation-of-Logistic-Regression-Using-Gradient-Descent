@@ -85,27 +85,35 @@ print(y_prednew)
 ## Output:
 
 #DATASET:
+
 ![Screenshot 2024-09-25 090507](https://github.com/user-attachments/assets/a82dfd44-8a8a-42c9-83f4-f7e927beab43)
 
 #Datatypes of Dataset:
+
 ![Screenshot 2024-09-25 090708](https://github.com/user-attachments/assets/ffcaa580-160f-46d5-963e-ed53e10029ab)
 
 #Labeled Dataset:
+
 ![Screenshot 2024-09-25 090941](https://github.com/user-attachments/assets/5857a294-912f-43a1-8a29-2ffeabca76c0)
 
 #Y value (dependent variable):
+
 ![Screenshot 2024-09-25 091041](https://github.com/user-attachments/assets/14f50fa0-06a5-4a9b-964b-ccef7bd29113)
 
 #Accuracy:
+
 ![Screenshot 2024-09-25 091153](https://github.com/user-attachments/assets/6d59b799-942d-4cf4-8ad6-0cf6146e8d6a)
 
 #Predicted Y value:
+
 ![Screenshot 2024-09-25 091247](https://github.com/user-attachments/assets/33e6e46c-4416-424d-9eaf-ceee79d948f5)
 
 #Y value:
+
 ![image](https://github.com/user-attachments/assets/2fa19613-35dc-4c82-a052-95c7944aed75)
 
 #New Y predictions:
+
 ![image](https://github.com/user-attachments/assets/19ee28e9-77fb-41bb-b3e2-78816c28058b)
 
 ## Result:
